@@ -10,3 +10,4 @@
 # Plugins
 [Leaflet - Markercluster](https://github.com/Leaflet/Leaflet.markercluster)
 [Leaflet - Providers](https://github.com/leaflet-extras/leaflet-providers)
+[Leaflet - Elevation](https://github.com/MrMufflon/Leaflet.Elevation)
