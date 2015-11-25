@@ -15,3 +15,5 @@
 [Elevation](https://github.com/MrMufflon/Leaflet.Elevation)
 
 [Marker Search](https://github.com/stefanocudini/leaflet-search)
+
+[Routing Machine](http://www.liedman.net/leaflet-routing-machine/)
