@@ -1,4 +1,4 @@
-# Maps References
+# Leaflet Maps API References
 
 [the-roadmap-to-roadmaps](http://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools)
 
@@ -13,3 +13,5 @@
 [Providers](https://github.com/leaflet-extras/leaflet-providers)
 
 [Elevation](https://github.com/MrMufflon/Leaflet.Elevation)
+
+[Marker Search](https://github.com/stefanocudini/leaflet-search)
